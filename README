@@ -1,0 +1,18 @@
+Dataset contains 11 clinical features for predicting heart disease events.
+
+This project helps to predict whether the patient has Heart Disease or not. This prediction is made using the clinical data of patients.
+
+Dataset Discription
+Attribute	Description
+Age	Age of a patient [years]
+Sex	Gender of the patient [M: Male, F: Female]
+ChestPain	Chest pain type [TA: Typical Angina, ATA: Atypical Angina, NAP: Non-Anginal Pain, ASY: Asymptomatic]
+RestingBP	Blood pressure in Hg (Normal blood pressure - 120/80 Hg)
+Cholesterol	Serum cholestrol level in blood (Normal cholesterol level below for adults 200mg/dL)
+FastingBS	Fasting Blood Sugar (Normal less than 100mg/dL for non diabetes for diabetes 100-125mg/dL)
+RestingECG	Resting electrocardiogram results [Normal: Normal, ST: having ST-T wave abnormality (T wave inversions and/or ST elevation or depression of > 0.05 mV), LVH: showing probable or definite left ventricular hypertrophy by Estes' criteria]
+MaxHR	Maximum heart rate achieved [Numeric value between 60 and 202]
+ExerciseAngina	Exercise-induced angina [Y: Yes, N: No]
+Oldpeak	oldpeak = ST [Numeric value measured in depression]
+ST_Slope	The slope of the peak exercise ST segment [Up: upsloping, Flat: flat, Down: downsloping]
+HeartDisease	output class [1: heart disease, 0: Normal]
